@@ -34,4 +34,4 @@ The Internet is a computer network that interconnects billions of computing devi
 * packet switches: forward packets (chunks of data)
   * routers and switches
   
-![Figure 1.1][fig1.1.png]
+![Figure 1.1](fig1.1.png)
