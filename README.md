@@ -6,8 +6,8 @@ My notes for Network Fundamentals.
 
 ### Road Map
 
-* [1.1 what is the Internet?](#1.1-what-is-the-internet?)
-* 1.2 network edge
+* [1.1 what is the Internet?](#1.1)
+* [1.2 network edge](#1.2)
   * end systems, access networks, links
 * network core
   * packet switch, circuit switch, network structure
@@ -15,7 +15,7 @@ My notes for Network Fundamentals.
 * ~~1.6 networks under attack: security~~
 * 1.7 history
 
-## 1.1 What is the Internet?
+## <a name="1.1"></a> 1.1 What is the Internet?
 
 The textbook uses the public Internet (a speciic computer network) as their principle vehicle for discussing computer networks and their protocols. The internet can be described in two ways:
 * The basic hardware and software components that make up the Internet
