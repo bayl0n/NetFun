@@ -1,6 +1,8 @@
 # Network Fundamentals Notes
 
-## Chapter 1: Road Map
+## Chapter 1
+
+###  Road Map
 
 * 1.1 what *is* the Internet?
 * 1.2 network edge
